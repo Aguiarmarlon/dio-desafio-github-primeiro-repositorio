@@ -1,2 +1,2 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio Netflix
+Repositorio criado para o desafio de projeto 
